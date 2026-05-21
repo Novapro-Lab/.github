@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/novapro-lab-logo.png" alt="Novapro Lab" width="290">
+  <img src="assets/novapro-lab-logo.png" alt="Novapro Lab" width="320">
 </p>
 
 <h1 align="center">Novapro Lab</h1>
