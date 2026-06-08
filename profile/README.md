@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/novapro-lab-logo.png" alt="Novapro Lab" width="320">
+  <img src="assets/novapro-lab-logo.png" alt="Novapro Lab™" width="320">
 </p>
 
-<h1 align="center">Novapro Lab</h1>
+<h1 align="center">Novapro Lab™</h1>
 
 <p align="center">
   <strong>AI commercial systems for customer acquisition, automation, and operational intelligence.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/company-Novapro%20Lab-111827?style=for-the-badge" alt="Novapro Lab">
+  <img src="https://img.shields.io/badge/company-Novapro%20Lab-111827?style=for-the-badge" alt="Novapro Lab™">
   <img src="https://img.shields.io/badge/focus-AI%20Commercial%20Systems-2563eb?style=for-the-badge" alt="AI Commercial Systems">
   <img src="https://img.shields.io/badge/platforms-private-ef7d22?style=for-the-badge" alt="Private Platforms">
   <img src="https://img.shields.io/badge/access-restricted-8f1720?style=for-the-badge" alt="Restricted Access">
@@ -17,9 +17,9 @@
 
 ---
 
-## About Novapro Lab
+## About Novapro Lab™
 
-**Novapro Lab** is a software development and innovation studio focused on building private AI-powered business systems for customer acquisition, commercial operations, workflow automation, and operational decision-making.
+**Novapro Lab™** is a software development and innovation studio focused on building private AI-powered business systems for customer acquisition, commercial operations, workflow automation, and operational decision-making.
 
 We design and develop software platforms that help organizations simplify complex workflows, attract customers, manage leads, create appointments, improve follow-up, support sales operations, and transform business information into practical actions.
 
@@ -27,13 +27,13 @@ Our work is centered on one principle:
 
 > Technology should reduce business complexity, not create more of it.
 
-Novapro Lab builds systems for real business execution, not software that creates more dashboards, reports, or manual operational burden.
+Novapro Lab™ builds systems for real business execution, not software that creates more dashboards, reports, or manual operational burden.
 
 ---
 
 ## What We Build
 
-Novapro Lab develops private software systems and digital platforms for:
+Novapro Lab™ develops private software systems and digital platforms for:
 
 - AI-assisted business operations
 - customer acquisition workflows
@@ -55,7 +55,7 @@ Our platforms are designed to help companies operate with more clarity, speed, c
 
 ## Current Development Focus
 
-Novapro Lab is actively developing private AI-powered systems focused on:
+Novapro Lab™ is actively developing private AI-powered systems focused on:
 
 - customer acquisition
 - lead generation and qualification
@@ -170,7 +170,7 @@ If sensitive information is accidentally published, the affected credential, tok
 
 ## Repository Visibility
 
-Not every Novapro Lab project is intended to be public.
+Not every Novapro Lab™ project is intended to be public.
 
 Some repositories are private because they contain proprietary systems, internal platforms, protected workflows, product development, operational logic, customer data structures, or security-sensitive implementation details.
 
@@ -180,7 +180,7 @@ Public visibility is used only when it supports documentation, package distribut
 
 ## Technologies & Areas of Work
 
-Novapro Lab works across areas such as:
+Novapro Lab™ works across areas such as:
 
 - web application development
 - API design
@@ -218,7 +218,7 @@ All rights reserved.
 ---
 
 <p align="center">
-  <strong>Novapro Lab</strong><br>
+  <strong>Novapro Lab™</strong><br>
   AI commercial systems for customer acquisition, automation, and operational intelligence.
 </p>
 
