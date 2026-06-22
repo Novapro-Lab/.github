@@ -212,7 +212,7 @@ Unauthorized use, reproduction, redistribution, reverse engineering, commerciali
 ## Ownership
 
 © 2026 Novapro Multi-Services LLC.  
-Novapro Lab is a division of Novapro Multi-Services LLC.  
+Novapro Lab LLC.  
 All rights reserved.
 
 ---
