@@ -211,9 +211,7 @@ Unauthorized use, reproduction, redistribution, reverse engineering, commerciali
 
 ## Ownership
 
-© 2026 Novapro LLC.  
-Novapro Lab LLC.  
-All rights reserved.
+© 2026 Novapro LLC. All rights reserved.
 
 ---
 
